@@ -2,7 +2,7 @@
 Take the survey and find out who you are from Avengers (MCU)
 Survey contains of 12 questions.
 Questions are easy: like this one "How do you handle a crisis?" 
-And at the end of you have a little description about your hero and the their images. 
+And at the end,  you  will have a little description about your hero and the their images. 
 ### Application screenshots
 | Home Screen  | Survey | Answer |
 |:---:|:---:|:---:|
